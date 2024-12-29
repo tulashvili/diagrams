@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.1">
   <diagram name="Страница — 1" id="5du1juvn_ypTDH0RCSgx">
-    <mxGraphModel dx="2271" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1827" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,8 +60,11 @@
         <mxCell id="f5WF6vRcDrt1ImRKZO3Q-10" value="Download mp3" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Download.svg;" vertex="1" parent="f5WF6vRcDrt1ImRKZO3Q-14">
           <mxGeometry x="287.25" y="35" width="38.21" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="f5WF6vRcDrt1ImRKZO3Q-51" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="f5WF6vRcDrt1ImRKZO3Q-14" source="f5WF6vRcDrt1ImRKZO3Q-23" target="f5WF6vRcDrt1ImRKZO3Q-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f5WF6vRcDrt1ImRKZO3Q-23" value="/var/www/cdn.tulashvili.com/audio" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="f5WF6vRcDrt1ImRKZO3Q-14">
-          <mxGeometry x="287.25" y="130" width="36.96" height="30" as="geometry" />
+          <mxGeometry x="105.93" y="150" width="73.92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f5WF6vRcDrt1ImRKZO3Q-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="f5WF6vRcDrt1ImRKZO3Q-14" source="f5WF6vRcDrt1ImRKZO3Q-26" target="f5WF6vRcDrt1ImRKZO3Q-33">
           <mxGeometry relative="1" as="geometry" />
@@ -87,7 +90,7 @@
         <mxCell id="f5WF6vRcDrt1ImRKZO3Q-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="f5WF6vRcDrt1ImRKZO3Q-33" source="f5WF6vRcDrt1ImRKZO3Q-35" target="f5WF6vRcDrt1ImRKZO3Q-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f5WF6vRcDrt1ImRKZO3Q-35" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot; class=&quot;hljs-tag&quot;&gt;&lt;span class=&quot;hljs-name&quot;&gt;link =&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;https://tulashvili.com&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;audio/filename.mp3&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="f5WF6vRcDrt1ImRKZO3Q-33">
+        <mxCell id="f5WF6vRcDrt1ImRKZO3Q-35" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot; class=&quot;hljs-tag&quot;&gt;&lt;span class=&quot;hljs-name&quot;&gt;link =&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;audio/filename.mp3&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="f5WF6vRcDrt1ImRKZO3Q-33">
           <mxGeometry x="85" y="23.75" width="175" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="f5WF6vRcDrt1ImRKZO3Q-36" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot; class=&quot;hljs-string&quot;&gt;https://tulashvili.com/audio/filename.mp3&quot;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot; class=&quot;hljs-attr&quot;&gt;length&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot; class=&quot;hljs-string&quot;&gt;&quot;12345678&quot;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot; class=&quot;hljs-attr&quot;&gt;type&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot; class=&quot;hljs-string&quot;&gt;&quot;audio/mpeg&quot;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="f5WF6vRcDrt1ImRKZO3Q-33">
@@ -106,10 +109,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f5WF6vRcDrt1ImRKZO3Q-43" value="/var/www/cdn.tulashvili.com/new_rss.xml" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="f5WF6vRcDrt1ImRKZO3Q-14">
-          <mxGeometry x="800" y="405" width="36.96" height="30" as="geometry" />
+          <mxGeometry x="420" y="430" width="36.96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f5WF6vRcDrt1ImRKZO3Q-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=-0.206;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="f5WF6vRcDrt1ImRKZO3Q-14" source="f5WF6vRcDrt1ImRKZO3Q-33" target="f5WF6vRcDrt1ImRKZO3Q-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f5WF6vRcDrt1ImRKZO3Q-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="f5WF6vRcDrt1ImRKZO3Q-14" source="f5WF6vRcDrt1ImRKZO3Q-35" target="f5WF6vRcDrt1ImRKZO3Q-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f5WF6vRcDrt1ImRKZO3Q-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.959;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="f5WF6vRcDrt1ImRKZO3Q-14" source="f5WF6vRcDrt1ImRKZO3Q-36" target="f5WF6vRcDrt1ImRKZO3Q-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
