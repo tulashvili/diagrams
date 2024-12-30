@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Страница — 1" id="7tew6kczpahPPCefrel-">
-    <mxGraphModel dx="1167" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,6 +13,9 @@
           <mxGeometry x="6" y="450" width="174" height="113" as="geometry" />
         </mxCell>
         <mxCell id="N0TpLS0-rn4Ospf4XhaW-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="N0TpLS0-rn4Ospf4XhaW-3" target="N0TpLS0-rn4Ospf4XhaW-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="N0TpLS0-rn4Ospf4XhaW-3" target="JwYMxhU9lIsA6WrN-M7q-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N0TpLS0-rn4Ospf4XhaW-3" value="Intermediate Certificate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -33,6 +36,16 @@
         </mxCell>
         <mxCell id="JwYMxhU9lIsA6WrN-M7q-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-113" y="-165" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="JwYMxhU9lIsA6WrN-M7q-10" target="JwYMxhU9lIsA6WrN-M7q-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="41" y="-17.20001220703125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-49" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="JwYMxhU9lIsA6WrN-M7q-47">
+          <mxGeometry x="0.1223" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JwYMxhU9lIsA6WrN-M7q-10" value="browser" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
           <mxGeometry x="61" y="-161.27" width="74" height="52.54" as="geometry" />
@@ -63,6 +76,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="156.83628" y="-53.960000000000036" as="sourcePoint" />
             <mxPoint x="392" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="JwYMxhU9lIsA6WrN-M7q-26" target="JwYMxhU9lIsA6WrN-M7q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-53" value="6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="JwYMxhU9lIsA6WrN-M7q-52">
+          <mxGeometry x="-0.3274" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwYMxhU9lIsA6WrN-M7q-26" value="Server" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.virtual_machine_feature" vertex="1" parent="1">
@@ -128,6 +149,29 @@
             <mxPoint x="198" y="25" as="sourcePoint" />
             <mxPoint x="230" y="-65" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-48" value="Проверка полученного&lt;div&gt;сертификата&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="-17" width="191" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="JwYMxhU9lIsA6WrN-M7q-10" target="JwYMxhU9lIsA6WrN-M7q-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-51" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="JwYMxhU9lIsA6WrN-M7q-50">
+          <mxGeometry x="0.5747" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-54" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.982;exitY=0.393;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.321;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N0TpLS0-rn4Ospf4XhaW-3" target="JwYMxhU9lIsA6WrN-M7q-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="237" y="692" as="sourcePoint" />
+            <mxPoint x="287" y="642" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-55" value="Проверка сертификатов и их выдача" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="287" y="614" width="302" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYMxhU9lIsA6WrN-M7q-57" value="Root CA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-193" y="327" width="174" height="113" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
